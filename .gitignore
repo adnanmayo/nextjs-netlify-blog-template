@@ -17,7 +17,6 @@
 
 # misc
 .DS_Store
-.env*
 
 # debug
 npm-debug.log*
@@ -32,3 +31,4 @@ yarn-error.log*
 
 # mdx
 .mdx-data
+config.bat
